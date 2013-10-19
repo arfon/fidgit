@@ -1,0 +1,15 @@
+# Config for setup
+[setup] 
+github_token = "a3133YBT45aW3auFd95n"
+fidgit_location = "http://fidgit.arfon.org"
+figshare_consumer_key = "a3133YBT45aW3auFd95n"
+figshare_consumer_token = "a3133YBT45aW3auFd95n"
+figshare_oauth_token = "a3133YBT45aW3auFd95n"
+figshare_oauth_secret = "a3133YBT45aW3auFd95n"
+
+[repos]
+  [repos.fidgit]
+  name = "fidgit"
+  location = "https://github.com/arfon/fidgit"
+  figshare_article_id = 821210
+  secret = "a3133YBT45aW3auFd95n"

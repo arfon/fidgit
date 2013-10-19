@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Fidgit</title>
+    <style>
+      h1{
+      	font-family: Georgia, serif;
+      	font-weight: lighter;
+        font-size: 25px;
+      }
+      
+      h3{
+      	font-family: Georgia, serif;
+      	font-weight: lighter;
+        font-size: 20px;
+      }
+      
+      ul{
+        font-family: Sans-serif;
+      }
+    </style>
+  </head>  
+  <body>
+    <h1>GitHub: <%= @fidgit_repository.name %> &middot; <a href="<%= @fidgit_repository.github_address %>">View &rarr;</a></h1>
+    <h1>Figshare: <%= @fidgit_repository.figshare_article_id %> &middot; <a href="http://figshare.com/preview/_preview/<%= @fidgit_repository.figshare_article_id %>">View &rarr;</a></h1>
+    <h3>Tag: <%= @fidgit_repository.tag %> (<a href="<%= @fidgit_repository.github_address %>/commit/<%= @fidgit_repository.commit %>" target="_blank"><%= @fidgit_repository.commit %></a>)</h3>
+
+    <ul>
+    <% @fidgit_repository.latest_releases.each do |release| %>
+      <% if release.prerelease? %>
+        <li style="color:red;"><%= release.tag %>: <%= release.created_at %> (prerelease)</li>
+      <% else %>
+        <li><%= release.tag %>: <%= release.created_at %></li>
+      <% end %>
+    <% end %>  
+    </ul>
+  </body>
+</html>
+
