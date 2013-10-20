@@ -6,7 +6,7 @@ Figshare and Git(Hub). By Arfon Smith.
 What this does
 --------------
 
-This is a proof of concept integration between a GitHub repo and Figshare in an effort to get a [DOI](http://en.wikipedia.org/wiki/Digital_object_identifier) for a GitHub repository. When a repository is tagged for release on GitHub Fidgit will import the release into Figshare thus giving the code bundle a DOI. In a somewhat meta fashion, Fidgit is publishing itself to Figshare. It's DOI is [http://dx.doi.org/10.6084/m9.figshare.828487](http://dx.doi.org/10.6084/m9.figshare.828487).
+This is a proof of concept integration between a GitHub repo and Figshare in an effort to get a [DOI](http://en.wikipedia.org/wiki/Digital_object_identifier) for a GitHub repository. When a repository is tagged for release on GitHub Fidgit will import the release into Figshare thus giving the code bundle a DOI. In a somewhat meta fashion, Fidgit is publishing itself to Figshare. Its DOI is [http://dx.doi.org/10.6084/m9.figshare.828487](http://dx.doi.org/10.6084/m9.figshare.828487).
 
 Fidgit isn't really designed for 'production' use for example there's little or no error handling but hopefully there's some value here.
 
