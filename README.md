@@ -1,7 +1,7 @@
 Fidgit
 ======
 
-Figshare and Git(Hub). By Arfon Smith.
+Figshare and Git(Hub). By Arfon Smith (@github), Kaitlin Thaney (@MozillaScience) and Mark Hahnel (@figshare).
 
 What this does
 --------------
