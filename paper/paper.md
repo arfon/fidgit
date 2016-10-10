@@ -7,7 +7,10 @@ tags:
 authors:
  - name: Arfon M Smith
    orcid: 0000-0002-3957-2474
-   affiliation: GitHub Inc.
+   affiliation: 1
+affiliations:
+ - name: GitHub Inc.
+   index: 1
 date: 14 February 2016
 bibliography: paper.bib
 ---
