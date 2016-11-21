@@ -6,10 +6,10 @@ tags:
   - for the paper
 authors:
  - name: Arfon M Smith
-   orcid: 0000-0002-3957-2474
+   orcid: 0000-0000-0000-0000
    affiliation: 1
 affiliations:
- - name: GitHub Inc.
+ - name: Space Telescope Science Insitute
    index: 1
 date: 14 February 2016
 bibliography: paper.bib
