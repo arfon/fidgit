@@ -7,10 +7,15 @@ tags:
 authors:
  - name: Arfon M Smith
    orcid: 0000-0000-0000-0000
-   affiliation: 1
+   affiliation: "1, 2"
+ - name: Mickey Mouse
+   orcid: 0000-0000-0000-0000
+   affiliation: 2
 affiliations:
  - name: Space Telescope Science Insitute
    index: 1
+ - name: Disney Inc.
+   index: 2
 date: 14 February 2016
 bibliography: paper.bib
 ---
