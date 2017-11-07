@@ -11,7 +11,7 @@ Apache 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 What this does
 --------------
 
-This is a proof of concept integration between a GitHub repo and Figshare in an effort to get a [DOI](http://en.wikipedia.org/wiki/Digital_object_identifier) for a GitHub repository. When a repository is tagged for release on GitHub Fidgit will import the release into Figshare thus giving the code bundle a DOI. In a somewhat meta fashion, Fidgit is publishing itself to Figshare. Its DOI is [http://dx.doi.org/10.6084/m9.figshare.828487](http://dx.doi.org/10.6084/m9.figshare.828487).
+This is a proof of concept integration between a GitHub repo and Figshare in an effort to get a [DOI](http://en.wikipedia.org/wiki/Digital_object_identifier) for a GitHub repository. When a repository is tagged for release on GitHub Fidgit will import the release into Figshare thus giving the code bundle a DOI. In a somewhat meta fashion, Fidgit is publishing itself to Figshare. Its DOI is [https://doi.org/10.6084/m9.figshare.828487](https://doi.org/10.6084/m9.figshare.828487).
 
 Fidgit isn't really designed for 'production' use, for example there's little or no error handling but hopefully there's some value here.
 
@@ -98,6 +98,6 @@ If everything goes to plan then these tasks should run without error and should 
 That's a wrap!
 --------------
 
-And that's about it. If you now create a new release on GitHub then you should see this code bundle being mirrored to your specified location on Figshare. Check out the [Fidgit one here](http://dx.doi.org/10.6084/m9.figshare.828487). Any questions, comments, concerns post an issue.
+And that's about it. If you now create a new release on GitHub then you should see this code bundle being mirrored to your specified location on Figshare. Check out the [Fidgit one here](https://doi.org/10.6084/m9.figshare.828487). Any questions, comments, concerns post an issue.
 
 ![DOIed](https://raw.github.com/arfon/fidgit/master/screens/figshare_article.png)
