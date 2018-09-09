@@ -1,29 +1,33 @@
 ---
-title: 'Fidgit: An ungodly union of GitHub and figshare'
+title: "Fidgit TEST TEST: An ungodly union of GitHub and figshare "
 tags:
-  - example
-  - tags
-  - for the paper
+  - Python
+  - astronomy
+  - dynamics
+  - galactic dynamics
+  - milky way
 authors:
- - name: Arfon M Smith
-   orcid: 0000-0000-0000-0000
-   affiliation: "1, 2"
- - name: Mickey Mouse
-   orcid: 0000-0000-0000-0000
-   affiliation: 2
+  - name: Adrian M. Price-Whelan
+    orcid: 0000-0003-0872-7098
+    affiliation: "1, 2" # (Multiple affiliations must be quoted)
+  - name: Author 2
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
 affiliations:
- - name: Space Telescope Science Insitute
+ - name: Lyman Spitzer, Jr. Fellow, Princeton University
    index: 1
- - name: Disney Inc.
+ - name: Institution 2
    index: 2
-date: 14 February 2016
+date: 13 August 2017
 bibliography: paper.bib
 ---
 
 # Summary
 
-This is a proof of concept integration between a GitHub [@GitHub] repo and figshare [@figshare] in an effort to get a DOI for a GitHub repository. When a repository is tagged for release on GitHub, Fidgit [@Fidgit] will import the release into figshare thus giving the code bundle a DOI. In a somewhat meta fashion, Fidgit is publishing itself to figshare with DOI 'https://doi.org/10.6084/m9.figshare.828487' [@figshare_archive].
+This is a proof of concept integration between a GitHub [@GitHub] repo and figshare [@figshare] in an effort to get a DOI for a GitHub repository. When a repository is tagged for release on GitHub, Fidgit will import the release into figshare thus giving the code bundle a DOI. In a somewhat meta fashion, Fidgit is publishing itself to figshare. Its DOI is http://dx.doi.org/10.6084/m9.figshare.828487.
 
--![Fidgit deposited in figshare.](figshare_article.png)
+# Figures
+
+![Fidgit deposited in figshare.](figshare_article.png)
 
 # References
