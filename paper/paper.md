@@ -26,4 +26,8 @@ This is a proof of concept integration between a GitHub [@GitHub] repo and figsh
 
 -![Fidgit deposited in figshare.](figshare_article.png)
 
+# Statement of need
+
+Something profound about how this is a very important area of research...
+
 # References
