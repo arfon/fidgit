@@ -8,7 +8,7 @@ authors:
  - name: Arfon M Smith
    orcid: 0000-0003-0872-7098
    affiliation: "1, 2"
- - name: Mickey Mouse
+ - name: Donald Duck
    orcid: 0000-0003-0872-7098
    affiliation: 2
 affiliations:
