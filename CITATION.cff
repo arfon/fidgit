@@ -2,7 +2,7 @@ cff-version: 1.1.0
 message: "If you use this software in your work, please cite it using the following metadata."
 authors:
 - family-names: "Smith"
-  given-names: "Arfon M S A"
+  given-names: "Arfon M."
   orcid: 0000-0002-3957-2474
 - family-names: "Thaney"
   given-names: "Kaitlin"
