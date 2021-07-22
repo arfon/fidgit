@@ -1,17 +1,2 @@
-cff-version: 1.1.0
-message: "If you use this software in your work, please cite it using the following metadata."
-authors:
-- family-names: "Smith"
-  given-names: "Arfon M."
-  orcid: 0000-0002-3957-2474
-- family-names: "Thaney"
-  given-names: "Kaitlin"
-  orcid: 0000-0002-7217-4494
-- family-names: "Hahnel"
-  given-names: "Mark"
-  orcid: 0000-0003-4741-0309
-title: "fidgit"
-version: v0.0.3
-date-released: 2013-10-18
-doi: 10.6084/m9.figshare.828487.v6 
+Hello!
 
