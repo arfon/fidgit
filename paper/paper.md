@@ -6,10 +6,10 @@ tags:
   - for the paper
 authors:
  - name: Arfon M Smith
-   orcid: 0000-0003-0872-7098
+   orcid: 0000-0002-3957-2474
    affiliation: "1, 2"
  - name: Mickey Mouse
-   orcid: 0000-0003-0872-7098
+   orcid: 0000-0000-0000-0000
    affiliation: 2
 affiliations:
  - name: Space Telescope Science Insitute
